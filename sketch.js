@@ -38,7 +38,7 @@ function draw(){
     console.log(gameState)
   }
   function myFunction() {
-    setTimeout(alertFunc, 3000);
+    setTimeout(alertFunc, 1000);
    }
 
 }
